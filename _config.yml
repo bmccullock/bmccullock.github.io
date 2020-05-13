@@ -106,6 +106,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: landing
 
 category_archive:
   type: liquid
